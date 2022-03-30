@@ -1,1 +1,2 @@
 File was changed.
+New file with stash
