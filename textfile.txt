@@ -1,1 +1,5 @@
-Merge Conflict change
+<<<<<<< HEAD
+Merge Conflict
+=======
+Merge Conflict
+>>>>>>> new-branch
